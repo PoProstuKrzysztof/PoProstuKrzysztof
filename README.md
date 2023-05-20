@@ -12,7 +12,7 @@ I'm Christopher, and I started my journey with programming since I enrolled on m
 
 ## Tech stack 💻
 + C# (11)
-+ .NET Core (3.1)
++ .NET 7
 + .NET Framework (4.8)
 + SQL
 + Semantic HTML5
