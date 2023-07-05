@@ -3,7 +3,8 @@
  I'm Christopher, and I started my journey with programming since I enrolled on my unversity. 
 
  It was hard at first, but after a while I have 
-understand that everything can be achieved through hard work and discipline, and this is something crucial especially in coding. This not only had a positive effect on my software developing skills, but also on many other aspects of my life.
+understand that everything can be achieved through hard work and discipline, and this is something crucial especially in coding. 
+This not only had a positive effect on my software developing skills, but also on many other aspects of my life.
 
  My spare time is filled with programming, always having goal in my mind - creating useful, intuitive programs which could improve and make life easier.
 
@@ -14,7 +15,7 @@ understand that everything can be achieved through hard work and discipline, and
 + getting better and better in C#
 + implementing API in applications
 + learning algorithms 
-+ project patterns
++ design patterns
 
 
 ## Tech stack 💻
