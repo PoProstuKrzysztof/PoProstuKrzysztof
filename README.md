@@ -12,11 +12,11 @@ My spare time is filled with programming, always having goal in my mind - creati
 I am looking for my first experience in the IT industry to improve my skills in building applications, both architecturally and scripting.
 
 ## 🤓 Currently learning 
-+ expanding my knowledge with .NET Core
-+ getting better and better in C#
-+ implementing API in applications
-+ learning algorithms 
-+ design patterns
++ Expanding my knowledge with .NET Core and C#
++ Implementing API in applications
++ Learning algorithms 
++ Design patterns
++ JavaScript
 
 
 ## 💻 Languages and tools
