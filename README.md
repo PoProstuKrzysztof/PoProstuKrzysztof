@@ -3,9 +3,7 @@
 
  I'm Christopher, and I started my journey with programming since I enrolled on my unversity. 
 
-It was hard at first, but after a while I have 
-understand that everything can be achieved through hard work and discipline, and this is something crucial especially in coding. 
-This not only had a positive effect on my software developing skills, but also on many other aspects of my life.
+It was challenging at first, but I eventually realized that everything is possible with dedicated effort and discipline, which is especially important with coding. This had a good impact on several aspects of my life, not just my software development abilities.
 
 My spare time is filled with programming, always having goal in my mind - creating useful, intuitive programs which could improve and make life easier.
 
@@ -14,9 +12,9 @@ I am looking for my first experience in the IT industry to improve my skills in 
 ## 🤓 Currently learning 
 + Expanding my knowledge with .NET Core and C#
 + Implementing API in applications
-+ Learning algorithms 
 + Design patterns
 + JavaScript
++ React
 
 
 ## 💻 Languages and tools
