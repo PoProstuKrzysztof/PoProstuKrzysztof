@@ -13,7 +13,9 @@ I am looking for my first experience in the IT industry to improve my skills in 
 + Expanding my knowledge with .NET Core and C#
 + Implementing API in applications
 + JavaScript
-+ Kotlin
++ React
++ TypeScript
+  
 
 
 ## 💻 Languages and tools
