@@ -1,4 +1,4 @@
-# Hi! I'm Krzysztof, an Junior C#/.NET Software Engineer 👨‍💻
+# Hi! I'm Krzysztof, an Software Consultant at Andea company 👨‍💻
 ![C# NET Software Engineer-min](https://github.com/PoProstuKrzysztof/PoProstuKrzysztof/assets/92109319/460beaa0-24b3-4bf1-ae24-4c0f19688071)
 
  I'm Christopher, and I started my journey with programming since I enrolled on my unversity. 
@@ -11,10 +11,11 @@ I am looking for my first experience in the IT industry to improve my skills in 
 
 ## 🤓 Currently learning 
 + Expanding my knowledge with .NET Core and C#
-+ Implementing API in applications
++ Expanding my knowledge with SQL 
 + JavaScript
 + React
 + TypeScript
++ JQuery
   
 
 
